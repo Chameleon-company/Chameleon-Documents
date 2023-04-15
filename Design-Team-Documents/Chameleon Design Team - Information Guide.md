@@ -1,5 +1,7 @@
 # Chameleon Design Team - Information Guide  
-![Chameleon-logo](Chameleon-company/Chameleon-Documents/Design-Team-Documents/Company Branding/Chameleon Website/Chameleon-Company_Logo.PNG)
+![Chameleon-Company_Logo](https://user-images.githubusercontent.com/89020549/232201391-652dc639-69e5-48ce-90c9-37ef3f4690e4.PNG)
+
+
 
 ## [Contents](#contents)
 - ### [Purpose of document](#purpose-of-document)
@@ -26,7 +28,7 @@ The Chameleon-Company GitHub repository is where you will find all sub-repositor
 - If you don’t have a GitHub account already, please go to [GitHub](https://github.com)  and create a free account. It is recommended to use your Deakin email address.
 - Provide your project leader your GitHub **Username**, they will add you to the Chameleon Git repository.
 - Please review the previous trimesters company handover documents to get up to speed with where the company progression is currently at.  
-
+![GitHub](https://user-images.githubusercontent.com/89020549/232201208-06d10c88-2a7b-47a0-8bed-c1ccda5b47ce.png)
 
 ## Where to start designing
 The design team will be using **Figma** as the main design tool for each of the design projects. Please create a free Figma account and notify your design leader(s) of the email address you used to create the account. The design leader(s) will then invite you to each of the Figma design project teams.
@@ -34,6 +36,7 @@ The design team will be using **Figma** as the main design tool for each of the 
 - Create a free account in [Figma](https://www.figma.com/)
   It is recommended to use your Deakin email address.
 - Provide your project leader your Figma email address to be invited to the Chameleon Figma teams.
+![Figma1](https://user-images.githubusercontent.com/89020549/232201728-96756b62-2c05-4830-92e6-fe909794401c.png)
 
   
 ## How to manage tasks
@@ -43,6 +46,7 @@ Trello will be used for leaders to assign you tasks, as well as creating your ow
 - Create a free account in [Trello](https://trello.com)
 - Provide your project leader your Trello email address to be invited to your respective team Trello board.
 - Start thinking of tasks you can add to expand the backlog.
+![Trello](https://user-images.githubusercontent.com/89020549/232201750-17ce1fc9-dfb1-4fa7-8f44-6b7bcae772d1.png)
 
 ## Resources
 Useful resources to help you get started with your design journey.
