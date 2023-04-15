@@ -32,6 +32,7 @@ The Chameleon-Company GitHub repository is where you will find all sub-repositor
 
 ## Where to start designing
 The design team will be using **Figma** as the main design tool for each of the design projects. Please create a free Figma account and notify your design leader(s) of the email address you used to create the account. The design leader(s) will then invite you to each of the Figma design project teams.
+
 **To Do:**
 - Create a free account in [Figma](https://www.figma.com/)
   It is recommended to use your Deakin email address.
@@ -42,6 +43,7 @@ The design team will be using **Figma** as the main design tool for each of the 
 ## How to manage tasks
 Currently the Chameleon company has chosen to use **Trello** as the main platform for assigning tasks and keeping track of your teams’ sprints throughout the capstone projects.
 Trello will be used for leaders to assign you tasks, as well as creating your own tasks so you can expand the backlog of jobs to complete.
+
 **To Do:**
 - Create a free account in [Trello](https://trello.com)
 - Provide your project leader your Trello email address to be invited to your respective team Trello board.
