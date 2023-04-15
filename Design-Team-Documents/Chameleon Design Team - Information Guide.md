@@ -1,4 +1,5 @@
 # Chameleon Design Team - Information Guide  
+![Chameleon-logo](Chameleon-company/Chameleon-Documents/Design-Team-Documents/Company Branding/Chameleon Website/Chameleon-Company_Logo.PNG)
 
 ## [Contents](#contents)
 - ### [Purpose of document](#purpose-of-document)
@@ -22,7 +23,7 @@ This document in its’ current state, applies to Chameleon company ***design***
 The Chameleon-Company GitHub repository is where you will find all sub-repositories for each of the Chameleon company projects, repositories will also include what the development teams will be working on, finalised company documents and other company information. Final ‘published’ company handover documents will reside in this space. 
 
 **To Do:**
-- If you don’t have a GitHub account already, please go to GitHub  and create a free account. It is recommended to use your Deakin email address.
+- If you don’t have a GitHub account already, please go to [GitHub](https://github.com)  and create a free account. It is recommended to use your Deakin email address.
 - Provide your project leader your GitHub **Username**, they will add you to the Chameleon Git repository.
 - Please review the previous trimesters company handover documents to get up to speed with where the company progression is currently at.  
 
@@ -39,8 +40,15 @@ The design team will be using **Figma** as the main design tool for each of the 
 Currently the Chameleon company has chosen to use **Trello** as the main platform for assigning tasks and keeping track of your teams’ sprints throughout the capstone projects.
 Trello will be used for leaders to assign you tasks, as well as creating your own tasks so you can expand the backlog of jobs to complete.
 **To Do:**
-- Create a free account in Trello
+- Create a free account in [Trello](https://trello.com)
 - Provide your project leader your Trello email address to be invited to your respective team Trello board.
 - Start thinking of tasks you can add to expand the backlog.
 
 ## Resources
+Useful resources to help you get started with your design journey.
+- Get started – Figma guides - https://help.figma.com/hc/en-us/categories/360002051613-Get-started
+- Figma Components – The Basics - https://www.youtube.com/watch?v=k74IrUNaJVk
+- Figma Prototyping - https://www.youtube.com/watch?v=-sAAa-CCOcg&t=21s
+- Create Colour Palette - https://mycolor.space/?hex=%2300A97F&sub=1
+- Trello – Get started - https://trello.com/guide/trello-101
+- GitHub for beginners - https://www.youtube.com/watch?v=iv8rSLsi1xo&t=3s
