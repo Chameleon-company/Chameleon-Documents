@@ -21,9 +21,9 @@ Before initiating a pull request for a team member to review, ensure you can che
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Chameleon_Policies_and_Guides/Trimester%20Wind%20Down.md" target="_blank">Trimester Wind Down</a>  | Contains a helpful checklist to get everything ready for handover. |
 | Design Team Documents       |           | Contains all design and branding assets for Chameleon and all Chameleon Projects. | 
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Chameleon%20Design%20Team%20-%20Information%20Guide.md" target="_blank">Chameleon Design team - Information Guide</a> | Design Team onboarding information |
-|     | Company Branding (Sub Directory) | ... |
-|     | User Personas (Sub Directory) | ... |
-|     | How To & Up-Skilling (Sub Directory)| ...|
+|     | Company Branding (Sub Directory) | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/bbfed96264f00a1cd2bad52fd03ba1cdbf5440d9/Design-Team-Documents/Readme.md" target="_blank">Sub Directory List</a> |
+|     | User Personas (Sub Directory) | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/bbfed96264f00a1cd2bad52fd03ba1cdbf5440d9/Design-Team-Documents/Readme.md" target="_blank">Sub Directory List</a>  |
+|     | How To & Up-Skilling (Sub Directory)| <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/bbfed96264f00a1cd2bad52fd03ba1cdbf5440d9/Design-Team-Documents/Readme.md" target="_blank">Sub Directory List</a> 
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Usability%20Heuristics.pdf" target="_blank">Usability Heuristics</a> | Guide for Usability Heuristics |
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Dark%20mode%20Colour%20for%20our%20Figma%20Design.pdf" target="_blank">Dark Mode colour for our Figma Design</a> | Dark Mode colour scheme |
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Colour%20for%20our%20Figma%20Design.pdf" target="_blank">Colour for our Figma Design</a> | Standard colour scheme |
