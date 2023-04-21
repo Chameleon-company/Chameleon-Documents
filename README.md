@@ -2,11 +2,17 @@
 > All Chameleon documents to be stored here with the goal of converting all documents to markdown for ease of version control and management.
 
 ## Using this Repository  
-**Updating Existing Documents:** Ensure you update the version number and the "last updated" date at the top of any document you edit. Complete rewrites require the version number before the decimal incremented while additions and edits only require the number after the decimal to be incremented. 
+**Updating Existing Documents:** Ensure you update the version number and the "last updated" date at the top of any document you edit. Complete rewrites require the version number before the decimal incremented while additions and edits only require the number after the decimal to be incremented. If moving documents, re-link the document to the directory.
 
-**Adding New Documents:** Ensure you add a version number and a "last updated" date to the top of the document. All documents should be written in markdown `.md` to help with version control and general document management. Lastly, ensure you insert the document details into the correct position within the directory below. 
+**Adding New Documents:** Ensure you add a version number and a "last updated" date to the top of the document. All documents should be written in markdown `.md` to help with version control and general document management. Lastly, ensure you insert the document details into the correct position within the directory below.
 
-## Current Directory 
+**Pull Request Checklist**
+Before initiating a pull request for a team member to review, ensure you can check off the following. 
+1. Document version updated or added.
+2. Last updated date reflects the date of changes. 
+3. The document or directory has been added to the *Directory List* and documents have been linked. 
+
+## Directory List
 | Directory | Document | Description|
 |:---   |:---   |:---   |
 | Chameleon Policies & Guides |           | Contains all company policies and guides (NOT for up-skilling docs)|
