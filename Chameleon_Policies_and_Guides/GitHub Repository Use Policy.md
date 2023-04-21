@@ -2,7 +2,7 @@
 
 ### Version 1.1 - Last updated on the 19th April 2023
 
-The Chameleon **best practice policy** for how team members should use the Chameleon GitHub repositories includes the following guidelines:
+> The Chameleon **best practice policy** for how team members should use the Chameleon GitHub repositories includes the following guidelines:
 
 **Access:** Only authorized team leaders should have *Ownership access* to the company's GitHub repository and all other *current* team members should have *Member level* access. Seniors leaving the program should be removed as members and owners at the end of each trimester. 
 
