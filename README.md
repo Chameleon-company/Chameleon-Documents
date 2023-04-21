@@ -12,7 +12,7 @@ Before initiating a pull request for a team member to review, ensure you can che
 2. Last updated date reflects the date of changes. 
 3. The document or directory has been added to the *Directory List* and documents have been linked. 
 
-## Directory List
+## Directory
 | Directory | Document | Description|
 |:---   |:---   |:---   |
 | Chameleon Policies & Guides |           | Contains all company policies and guides (NOT for up-skilling docs)|
