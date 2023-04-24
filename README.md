@@ -12,11 +12,12 @@ Before initiating a pull request for a team member to review, ensure you can che
 2. Last updated date reflects the date of changes. 
 3. The document or directory has been added to the *Directory List* and documents have been linked. 
 
-## Directory
+## Directory 
 | Directory | Document | Description|
 |:---   |:---   |:---   |
 | Chameleon Policies & Guides |           | Contains all company policies and guides (NOT for up-skilling docs)|
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/master/Chameleon_Policies_and_Guides/GitHub%20Repository%20Use%20Policy.md" target="_blank">GitHub Repository Use Policy</a>  | Best practice for using the Chameleon Git Repo |
+|     | [New Member Onboarding Checklist](https://github.com/Chameleon-company/Chameleon-Documents/blob/master/Chameleon_Policies_and_Guides/Chameleon%20Member%20Onboarding%20Checklist.md)|Checklist for new members to work through in order to prepare themselves to contribute.  
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Chameleon_Policies_and_Guides/Trimester%20Wind%20Up.md" target="_blank">Trimester Wind Up</a>  | Contains a helpful checklist to get everything underway at the beginning of a new trimester. |
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Chameleon_Policies_and_Guides/Trimester%20Wind%20Down.md" target="_blank">Trimester Wind Down</a>  | Contains a helpful checklist to get everything ready for handover. |
 | Design Team Documents       |           | Contains all design and branding assets for Chameleon and all Chameleon Projects. | 
