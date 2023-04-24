@@ -14,6 +14,7 @@ Completing the entire checklist is strongly recommended, as it contains essentia
 |5.| Familiarisation with your projects GitHub | Explore your projects GitHub repository and read through any documents designed to orientate you with the project. Again, you should have a link to the repo in your project team channel. You will need to provide your GitHub username to the project lead to gain write access. The [Chameleon Company Repository](https://github.com/Chameleon-company) contains all the project repos. | 
 
 <br>
+
 ### Onboarding Checklist Part 2 (Up-skilling / Refreshers)
 | # |TASK | INSTRUCTIONS / RESOURCES | 
 | :--- | :--- | :--- | 
