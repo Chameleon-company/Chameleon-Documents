@@ -6,7 +6,7 @@ Completing the entire checklist is strongly recommended, as it contains essentia
 
 ### Onboarding Checklist Part 1 (Administration & Comprehension) 
 | # |TASK | INSTRUCTIONS / RESOURCES | 
-| :--- | :--- | :--- | :---|
+| :--- | :--- | :--- | 
 |1.| Join Chameleon Microsoft Teams Channels and Chats | Ensure you are in the Chameleon Teams Channel as well as your relevant team channel. Ex. *Melbourne Open Data* or *EV Adoption Tools*. Pin these channels as almost all team communication happens here. | 
 |2.| Join your Project Teams Trello Board | Ensure you have access and have been added to your projects Trello board. These should be available in your Chameleon Project channel in the tabs at the top. This is a key step as your projects Trello board will have links to key information. <br>  [Melbourne City Trello Board](https://trello.com/b/ln6GEN45/melbourne-city) <br> [Chameleon Website Trello Board](https://trello.com/b/wbieC0bc/chameleon-website) <br> EV Adoption Tools: [EV Charger Forecasting Locations TB](https://trello.com/b/v3XH0ISE/evcflo-project) & [Evoleon App TB](https://trello.com/b/t7wDcKR8/evolean-app-project). | 
 |3.| Begin Team Work log | Again, this should be available for download within your project channel, if not, ask your project lead for access. The work log is used as a record of your contribution to the project. | 
