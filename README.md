@@ -15,6 +15,13 @@ Before initiating a pull request for a team member to review, ensure you can che
 ## Directory 
 | Directory | Document | Description|
 |:---   |:---   |:---   |
+| Chameleon Handover Documents |   | Templates and Archive of all Handover Documents. |
+|     | 2021-T3 (Sub Directory) | [Sub Directory List]()  |
+|     | 2022-T1 (Sub Directory) | [Sub Directory List]()  |
+|     | 2022-T2 (Sub Directory) | [Sub Directory List]()  |
+|     | 2022-T3 (Sub Directory) | [Sub Directory List]()  |
+|     | General (Sub Directory) | [Sub Directory List]()  |
+|     | Glossary (Sub Directory)| [Sub Directory List]()  |
 | Chameleon Policies & Guides |           | Contains all company policies and guides (NOT for up-skilling docs)|
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/master/Chameleon_Policies_and_Guides/GitHub%20Repository%20Use%20Policy.md" target="_blank">GitHub Repository Use Policy</a>  | Best practice for using the Chameleon Git Repo |
 |     | [New Member Onboarding Checklist](https://github.com/Chameleon-company/Chameleon-Documents/blob/eaa4cb0d66970d2784abcc640e17c7de467a8d2d/Chameleon_Policies_and_Guides/New%20Member%20Onboarding%20Checklist.md)|Checklist for new members to work through in order to prepare themselves to contribute.  
