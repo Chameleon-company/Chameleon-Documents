@@ -5,17 +5,6 @@ Repository designed to store company specific documents, templates and handover 
 
 ## Contents 
 
-### [Glossary](glossary) 
--	[AI-DS Glossary](glossary/AI-DS_Glossary-v20May2022.pdf)
--	[Chameleon Glossary](glossary/Chameleon_Glossary-v20May2022.pdf)
-
-### [General](General) 
--	[Company Mission](general/Company_Mission.md)
--	[Company Structure](general/Company_Structure.png) 
--	[Project Team Structure](general/Project_Team_Structure.png)
--	[Templates](general/templates)
-
-
 ### [2022-T1](2022-T1)
 - [OnTrack Task Submissions](2022-T1/ontracksubmissions) 
   - [2.1P Company Objectives and Structure](2022-T1/ontracksubmissions/2.1P_Company_Objectives_&_Structure.pdf)
