@@ -1,7 +1,7 @@
 # Chameleon-Handover-Documents
 Repository designed to store company specific documents, templates and handover documents to assist new and current students 
 
-
+## NOTE: UPDATE IN PROGESS. Links may not be working atm. 08.05.23 T1
 
 ## Contents 
 
