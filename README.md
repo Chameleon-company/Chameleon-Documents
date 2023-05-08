@@ -16,7 +16,7 @@ Before initiating a pull request for a team member to review, ensure you can che
 | Directory | Document | Description|
 |:---   |:---   |:---   |
 | Chameleon Policies & Guides |           | Contains all company policies and guides (NOT for up-skilling docs)|
-|     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/master/Chameleon_Policies_and_Guides/GitHub%20Repository%20Use%20Policy.md" target="_blank">GitHub Repository Use Policy</a>  | Best practice for using the Chameleon Git Repo |
+|     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/462c0459425ae67e6b269beed852d6089962d7f2/Chameleon%20Policies%20and%20Guides/GitHub%20Repository%20Use%20Policy.md" target="_blank">GitHub Repository Use Policy</a>  | Best practice for using the Chameleon Git Repo |
 |     | [New Member Onboarding Checklist](https://github.com/Chameleon-company/Chameleon-Documents/blob/462c0459425ae67e6b269beed852d6089962d7f2/Chameleon%20Policies%20and%20Guides/New%20Member%20Onboarding%20Checklist.md)|Checklist for new members to work through in order to prepare themselves to contribute.  
 | Design Team Documents       |           | Contains all design and branding assets for Chameleon and all Chameleon Projects. | 
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Chameleon%20Design%20Team%20-%20Information%20Guide.md" target="_blank">Chameleon Design team - Information Guide</a> | Design Team onboarding information |
