@@ -1,5 +1,7 @@
 # ​​Onboarding Checklist for Chameleon​ 
 
+#### Version 1.1 - Last updated on the 20th April 2023
+
 This documentation offers a comprehensive checklist for new members of Chameleon, which outlines the company's specific details and expectations. Both junior and senior members can utilize this resource to facilitate their onboarding process and adequately equip themselves before commencing any technical tasks.
 
 Completing the entire checklist is strongly recommended, as it contains essential information about the specific expectations for each member's contributions, which are further detailed in the linked documents. Additionally, the checklist highlights the critical skills required by members and provides links to short courses that can help ensure that members stay up-to-date with these skills.
