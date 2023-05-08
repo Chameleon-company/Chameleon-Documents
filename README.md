@@ -15,6 +15,7 @@ Before initiating a pull request for a team member to review, ensure you can che
 ## Directory 
 | Directory | Document | Description|
 |:---   |:---   |:---   |
+| Chameleon Handover Documents | [Sub Directory](https://github.com/Chameleon-company/Chameleon-Documents/tree/master/Chameleon%20Handover%20Documents) | Templates and Archive of all Handover Documents. |
 | Chameleon Policies & Guides |           | Contains all company policies and guides (NOT for up-skilling docs)|
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/462c0459425ae67e6b269beed852d6089962d7f2/Chameleon%20Policies%20and%20Guides/GitHub%20Repository%20Use%20Policy.md" target="_blank">GitHub Repository Use Policy</a>  | Best practice for using the Chameleon Git Repo |
 |     | [New Member Onboarding Checklist](https://github.com/Chameleon-company/Chameleon-Documents/blob/462c0459425ae67e6b269beed852d6089962d7f2/Chameleon%20Policies%20and%20Guides/New%20Member%20Onboarding%20Checklist.md)|Checklist for new members to work through in order to prepare themselves to contribute.  
@@ -26,6 +27,14 @@ Before initiating a pull request for a team member to review, ensure you can che
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Usability%20Heuristics.pdf" target="_blank">Usability Heuristics</a> | Guide for Usability Heuristics |
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Dark%20mode%20Colour%20for%20our%20Figma%20Design.pdf" target="_blank">Dark Mode colour for our Figma Design</a> | Dark Mode colour scheme |
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Design-Team-Documents/Colour%20for%20our%20Figma%20Design.pdf" target="_blank">Colour for our Figma Design</a> | Standard colour scheme |
+| General |   | Chameleon document Templates, Mission, and other General documents |
+|  | [Company Mission](General/Company_Mission.md) | Chameleon mission statement |
+|  | [Company Structure](General/Company_Structure.png) | Chameleon company structure .png |
+|  | [Project Team Structure](General/Project_Team_Structure.png) | Chameleon project team structure |
+|  | [Templates](General/templates) | Document Templates |
+| Glossary |  | Chameleon Glossary of Common Terms |
+|  | [AI-DS Glossary](Glossary/AI-DS_Glossary-v20May2022.pdf) | Data Science Glossary of Terms |
+|  | [Chameleon Glossary](Glossary/Chameleon_Glossary-v20May2022.pdf) | Chameleon Glossary of Terms |
 | Up-Skilling & How To       |           | Contains company wide up-skilling recommendations and how to guides. | 
 |     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Up-Skilling%20&%20How%20To/markdown-cheat-sheet.md" target="_blank">Markdown Cheat Sheet</a> | How to for Markdown |
 
