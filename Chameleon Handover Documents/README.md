@@ -10,9 +10,9 @@ Ontrack Task Submissions
 
 ### [2023-T1](https://github.com/Chameleon-company/LeadershipTeam/tree/dc058e7faf1fe8842b673bde66f2658693713cd0/Assessment%20Tasks/2023%20T1)
 - OnTrack Task Submissions 
-  - [2.1P Company Objectives and Structure]()
-  - [6.2P Company Project Update]()
-  - [11.1P Company Handover and Showcase]()
+  - [2.1P Company Objectives and Structure](https://github.com/Chameleon-company/Chameleon-Documents/blob/49d93f1d55e65a3c77c1575155b14b5ca93b1075/Chameleon%20Handover%20Documents/2023-T3/2.1P_Submission.pdf)
+  - [6.2P Company Project Update](https://github.com/Chameleon-company/Chameleon-Documents/blob/49d93f1d55e65a3c77c1575155b14b5ca93b1075/Chameleon%20Handover%20Documents/2023-T3/6.1P_Submission.pdf)
+  - [11.1P Company Handover and Showcase](https://github.com/Chameleon-company/Chameleon-Documents/blob/49d93f1d55e65a3c77c1575155b14b5ca93b1075/Chameleon%20Handover%20Documents/2023-T3/11.2P_Chameleon%20Handover.pdf)
 
 ### [2022-T1](2022-T1)
 - [OnTrack Task Submissions](2022-T1/ontracksubmissions) 
